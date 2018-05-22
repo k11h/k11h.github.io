@@ -1,0 +1,45 @@
+<style>
+body {
+  position: absolute;
+  margin: 0;
+  min-height: 100%;
+  width: 100%;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+</style>
+
+    <div style="height:333px; width:100%;">
+<iframe id="footer" style="height: 333px; width:100%;" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBRqLDZCqqilkqYE0RXjxAtIIXxb59keiU&q=Berkeley+Marina,Berkeley+CA&zoom=15" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+
+
+
+<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js">  </script>
+
+
+<script type="text/javascript">  if (venue == true) { $( "iframe#footer" ).remove();}</script>
+
+
+
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright © 2018 Kevin Hung, All Rights Reserved.</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>

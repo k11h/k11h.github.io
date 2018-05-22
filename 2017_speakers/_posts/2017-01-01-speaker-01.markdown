@@ -1,0 +1,12 @@
+---
+title: Friend 3
+name: VIP 3 
+subtitle: Fortune Teller 
+layout: 2017_default
+modal-id: 1
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of TBD
+topic: Topic
+description: More Info
+---
