@@ -1,12 +1,25 @@
 ---
-title: Name
+title: Vince Kohli
 name: Name-2
-subtitle: Position
+subtitle: Judge, Wiseman, Shipmaster
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: vincek.jpeg
+thumbnail: vincek.jpeg
 alt: Picture of TBD
-topic: Topic
-description: More Info
+topic: 
+description: "Source: <a href='https://www.linkedin.com/in/vincekohli'>https://www.linkedin.com/in/vincekohli</a>
+<br> <br> 
+
+Industries Focus (B2C/B2B): Enterprise (SaaS/Cloud) eCommerce, Consumers - OnDemand - Marketplace, AR/VR, Mobile, IoT. FinTech, EdTech, HealthTech, BioTech, Medical Devices, ArtTech, AgroTech, Robotics. Artificial Intelligence - Big Data/Analytics - Connected Cars, Media. Blockchain, Bitcoin and Cryptocurrency.<br> <br> 
+
+Vince has obsession with ICEX = Innovation, Creativity, Entrepreneurship, Problem Thinking and UI/UX research with 16+ years of experience in top-tier tech consulting and client focused functions @ Accenture. A strong breadth of business experience and deep understanding about the symbiosis between Corporate and Start Up environments operating models. He is passionate about design thinking, value creation innovation, startups, and future of machines.<br> <br> 
+
+Vince works with companies to become more successful through innovation-driven entrepreneurship. From single entrepreneurs trying to launch new ventures all the way up to large multi-billion dollar corporations seeking to achieve their goals through entrepreneurship, intrapreneurship, and innovation. Also serves on the board of directors or advisers for a number of companies. He is a regularly featured speaker at management leadership programs on topics such as entrepreneurship, intrapreneurship, entrepreneurial marketing, technology innovation, creating sustainable and rapid profitable growth, business models strategies, and operational excellence.<br> <br> 
+
+Vince is keynote speaker, a frequent panelist and workshop facilitator at a variety of forums that focus on leadership, global philanthropy, new product development, community involvement., and corporate startup innovation.<br> <br> 
+
+Founder of two tech startups, Vince's all round experience as a entrepreneur, super angel investor, product executive and corporate strategist makes him a sought after mentor, panelist and judge at MIT, Google, UCSF, StartX, Stanford, Singularity, and IBM.<br> <br> 
+
+Visionary Design Thinking + Design Leadership + Deep Empathy in each product definition."
 ---
