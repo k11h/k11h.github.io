@@ -1,12 +1,12 @@
 ---
 title: Kevin Hung
-name: Name-1
+name: Presenter-1
 subtitle: Founder, Creative Producer & Chairman
 layout: 2017_default
 modal-id: 1
 img:
 thumbnail: me.jpg
-alt: Picture of TBD
+alt:
 topic: Why Invest in FinTech Knowledge
 description: "Kevin Hung (洪凱文, Кеша) is Founder, Producer and Chairman of inaugural Birthday Cryptocurrency Conference 2018 and is an aspiring amateur artist, entrepreneur and world renown Imagineer who mixes, marries and combines diverse branches of knowledge learned and observed from creative visualization, meditation, lucid dreaming, public speaking and decentralization into a potent, positive power and force for Good.<br> <br>
 

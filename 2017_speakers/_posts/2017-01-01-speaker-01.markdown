@@ -1,14 +1,14 @@
 ---
 title: Daisy Ozim
-name: Name-3 
+name: Presenter-3 
 subtitle: Healer, Spiritual Leader, Founder Blockchain for Social Justice
 layout: 2017_default
 modal-id: 1
-img: daisy.jpg
+img: 
 thumbnail: daisy.jpg
-alt: Picture of TBD
+alt:
 topic: 
-description: "Bio Source: <a href='https://www.linkedin.com/in/daisyozim/'>Daisy Ozim Speaker Portrait</a>
+description: "Bio Source: <a href='https://www.linkedin.com/in/daisyozim/'>Daisy Ozim Speaker Portrait</a><br>
 
 My work is centered in developing systems and practices rooted in sustainability and equity. Ive had the honor of working on health programs and policy from the international to local level, have developed a successful social enterprise, working to promote equity in the Blockchain ecosystem and supporting the correct application of venture capital.
 

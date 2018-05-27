@@ -1,14 +1,14 @@
 ---
 title: Vince Kohli
-name: Name-2
+name: Presenter-2
 subtitle: Start-up Judge MIT, NASA, Wiseman
 layout: 2017_default
 modal-id: 1
-img: vincek.jpeg
+img:
 thumbnail: vincek.jpeg
-alt: Picture of TBD
+alt:
 topic: 
-description: "Source: <a href='https://www.linkedin.com/in/vincekohli'>https://www.linkedin.com/in/vincekohli</a>
+description: "<a href='https://www.linkedin.com/in/vincekohli'>Bio Source Speaker Portrait</a>
 <br> <br> 
 
 Industries Focus (B2C/B2B): Enterprise (SaaS/Cloud) eCommerce, Consumers - OnDemand - Marketplace, AR/VR, Mobile, IoT. FinTech, EdTech, HealthTech, BioTech, Medical Devices, ArtTech, AgroTech, Robotics. Artificial Intelligence - Big Data/Analytics - Connected Cars, Media. Blockchain, Bitcoin and Cryptocurrency.<br> <br> 
