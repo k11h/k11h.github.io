@@ -4,7 +4,7 @@ name: Name-1
 subtitle: Founder, Creative Producer & Chairman
 layout: 2017_default
 modal-id: 1
-img: me.jpg
+img:
 thumbnail: me.jpg
 alt: Picture of TBD
 topic: Why Invest in FinTech Knowledge
