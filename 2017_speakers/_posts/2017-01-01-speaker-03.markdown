@@ -7,7 +7,7 @@ modal-id: 1
 img:
 thumbnail: me.jpg
 alt:
-topic: Why Invest in FinTech Knowledge
+topic: Speaker Bio, Presenter Portrait
 description: "Kevin Hung (洪凱文, Кеша) is Founder, Producer and Chairman of inaugural Birthday Crypto Conference 2018 and is an aspiring amateur artist, entrepreneur and world renown Imagineer who mixes, marries and intersects diverse bodies and branches of knowledge observed from creative visualization, meditation, lucid dreaming, active listening, practiced presence, public speaking and decentralization into a potent, positive power and force for Good.<br> <br>
 
 He graduated honorably and amicably in Computer Science and Engineering Major-Mathematics Minor from University of California where he Co-Founded the Data Science Student Society in San Diego, meanwhile gaining 5 years of professional internships, engineering positions and contract projects under his belt with companies like Yelp, Qualcomm, Doctible, Supermicro and 5 months of blockchain startup work experience in the sustainable clean energy space.<br> <br> 
