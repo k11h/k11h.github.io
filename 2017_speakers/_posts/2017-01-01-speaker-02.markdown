@@ -8,7 +8,7 @@ img:
 thumbnail: vincek.jpeg
 alt:
 topic: 
-description: "<a href='https://www.linkedin.com/in/vincekohli'>Bio Source Speaker Portrait</a>
+description: "<a href='https://www.linkedin.com/in/vincekohli'>Bio Speaker Source Presenter Portrait</a>
 <br> <br> 
 
 Industries Focus (B2C/B2B): Enterprise (SaaS/Cloud) eCommerce, Consumers - OnDemand - Marketplace, AR/VR, Mobile, IoT. FinTech, EdTech, HealthTech, BioTech, Medical Devices, ArtTech, AgroTech, Robotics. Artificial Intelligence - Big Data/Analytics - Connected Cars, Media. Blockchain, Bitcoin and Cryptocurrency.<br> <br> 
